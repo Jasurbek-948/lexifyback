@@ -1,0 +1,2753 @@
+{
+    "stage1": {
+        "description": "Boshlang'ich bosqich: Oson va o'rta darajadagi savollar",
+        "questionCount": 10,
+        "timeLimitPerQuestion": 20,
+        "questions": [
+            {
+                "id": "1_1",
+                "text": "What is the past tense of the verb 'go'?",
+                "options": [
+                    "Went",
+                    "Gone",
+                    "Goes",
+                    "Going"
+                ],
+                "correctAnswer": "Went",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_2",
+                "text": "Which word is a synonym for 'happy' in the sentence: 'She was happy to see her friend'?",
+                "options": [
+                    "Sad",
+                    "Glad",
+                    "Angry",
+                    "Tired"
+                ],
+                "correctAnswer": "Glad",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_3",
+                "text": "Fill in the blank: I ___ (be) at home yesterday.",
+                "options": [
+                    "Was",
+                    "Were",
+                    "Am",
+                    "Is"
+                ],
+                "correctAnswer": "Was",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_4",
+                "text": "What does the word 'book' mean in Uzbek?",
+                "options": [
+                    "Kitob",
+                    "Daftar",
+                    "Qalam",
+                    "Stul"
+                ],
+                "correctAnswer": "Kitob",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_5",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "She don’t like coffee.",
+                    "She doesn’t like coffee.",
+                    "She not like coffee.",
+                    "She liking coffee."
+                ],
+                "correctAnswer": "She doesn’t like coffee.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_6",
+                "text": "What is the plural form of 'child'?",
+                "options": [
+                    "Childs",
+                    "Children",
+                    "Childes",
+                    "Child’s"
+                ],
+                "correctAnswer": "Children",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_7",
+                "text": "Choose the correct preposition: I’m good ___ English.",
+                "options": [
+                    "At",
+                    "In",
+                    "On",
+                    "With"
+                ],
+                "correctAnswer": "At",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_8",
+                "text": "What does 'run out of' mean in the sentence: 'We ran out of milk'?",
+                "options": [
+                    "Buy more",
+                    "Use all",
+                    "Throw away",
+                    "Find more"
+                ],
+                "correctAnswer": "Use all",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_9",
+                "text": "Which word is an antonym of 'big'?",
+                "options": [
+                    "Large",
+                    "Small",
+                    "Huge",
+                    "Great"
+                ],
+                "correctAnswer": "Small",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_10",
+                "text": "Translate to Uzbek: 'I have two cats.'",
+                "options": [
+                    "Men ikki mushuk bor.",
+                    "Menda ikki mushuk bor.",
+                    "Men ikki mushukman.",
+                    "Menda mushuklar bor."
+                ],
+                "correctAnswer": "Menda ikki mushuk bor.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_11",
+                "text": "Which word correctly completes the sentence: 'I ___ to school every day.'?",
+                "options": [
+                    "Go",
+                    "Goes",
+                    "Going",
+                    "Gone"
+                ],
+                "correctAnswer": "Go",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_12",
+                "text": "What is the meaning of the word 'house' in Uzbek?",
+                "options": [
+                    "Uy",
+                    "Bog‘",
+                    "Daraxt",
+                    "Mashina"
+                ],
+                "correctAnswer": "Uy",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_13",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "He play football every weekend.",
+                    "He plays football every weekend.",
+                    "He playing football every weekend.",
+                    "He played football every weekend."
+                ],
+                "correctAnswer": "He plays football every weekend.",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_14",
+                "text": "What does 'take care' mean when someone says it as a goodbye?",
+                "options": [
+                    "Be careful",
+                    "See you later",
+                    "Good luck",
+                    "Have fun"
+                ],
+                "correctAnswer": "Be careful",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_15",
+                "text": "Choose the correct article: '___ sun rises in the east.'",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "The",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_16",
+                "text": "What is the plural form of 'apple'?",
+                "options": [
+                    "Apples",
+                    "Apple’s",
+                    "Apples’",
+                    "Apple"
+                ],
+                "correctAnswer": "Apples",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_17",
+                "text": "Which word is a synonym for 'fast' in the sentence: 'The car is very fast.'?",
+                "options": [
+                    "Slow",
+                    "Quick",
+                    "Heavy",
+                    "Big"
+                ],
+                "correctAnswer": "Quick",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_18",
+                "text": "Fill in the blank: 'They ___ (not like) to watch movies.'",
+                "options": [
+                    "Doesn’t like",
+                    "Don’t like",
+                    "Not like",
+                    "Didn’t like"
+                ],
+                "correctAnswer": "Don’t like",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_19",
+                "text": "What does 'pick up' mean in the sentence: 'I’ll pick you up at 7 PM.'?",
+                "options": [
+                    "Choose something",
+                    "Collect someone",
+                    "Learn quickly",
+                    "Throw away"
+                ],
+                "correctAnswer": "Collect someone",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_20",
+                "text": "Translate to English: 'Men har kuni maktabga boraman.'",
+                "options": [
+                    "I go to school every day.",
+                    "I am going to school every day.",
+                    "I went to school every day.",
+                    "I goes to school every day."
+                ],
+                "correctAnswer": "I go to school every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_21",
+                "text": "Which word correctly completes the sentence: 'She ___ a student.'?",
+                "options": [
+                    "Is",
+                    "Are",
+                    "Am",
+                    "Be"
+                ],
+                "correctAnswer": "Is",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_22",
+                "text": "What is the meaning of 'tree' in Uzbek?",
+                "options": [
+                    "Daraxt",
+                    "Uy",
+                    "Gul",
+                    "Mashina"
+                ],
+                "correctAnswer": "Daraxt",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_23",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "I doesn’t like tea.",
+                    "I don’t like tea.",
+                    "I not like tea.",
+                    "I liking tea."
+                ],
+                "correctAnswer": "I don’t like tea.",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_24",
+                "text": "What does 'see you later' mean as a goodbye?",
+                "options": [
+                    "Goodbye forever",
+                    "Meet again soon",
+                    "Stay safe",
+                    "Good luck"
+                ],
+                "correctAnswer": "Meet again soon",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_25",
+                "text": "Choose the correct article: '___ cat is on the table.'",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "The",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_26",
+                "text": "What is the plural form of 'dog'?",
+                "options": [
+                    "Dogs",
+                    "Dog’s",
+                    "Dogs’",
+                    "Doges"
+                ],
+                "correctAnswer": "Dogs",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_27",
+                "text": "Which word is a synonym for 'small'?",
+                "options": [
+                    "Big",
+                    "Tiny",
+                    "Large",
+                    "Huge"
+                ],
+                "correctAnswer": "Tiny",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_28",
+                "text": "Fill in the blank: 'We ___ (play) football every weekend.'",
+                "options": [
+                    "Plays",
+                    "Play",
+                    "Playing",
+                    "Played"
+                ],
+                "correctAnswer": "Play",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_29",
+                "text": "What does 'look up' mean in the sentence: 'I looked up the word in the dictionary.'?",
+                "options": [
+                    "Search for",
+                    "Forget",
+                    "Write down",
+                    "Ignore"
+                ],
+                "correctAnswer": "Search for",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_30",
+                "text": "Translate to English: 'Men har kuni suzaman.'",
+                "options": [
+                    "I swim every day.",
+                    "I swam every day.",
+                    "I am swimming every day.",
+                    "I will swim every day."
+                ],
+                "correctAnswer": "I swim every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_31",
+                "text": "Which word completes the sentence: 'He ___ to the park yesterday.'?",
+                "options": [
+                    "Go",
+                    "Went",
+                    "Gone",
+                    "Going"
+                ],
+                "correctAnswer": "Went",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_32",
+                "text": "What is the meaning of 'water' in Uzbek?",
+                "options": [
+                    "Suv",
+                    "Havo",
+                    "Olma",
+                    "Non"
+                ],
+                "correctAnswer": "Suv",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_33",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "She sing beautifully.",
+                    "She sings beautifully.",
+                    "She singing beautifully.",
+                    "She sung beautifully."
+                ],
+                "correctAnswer": "She sings beautifully.",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_34",
+                "text": "What does 'good luck' mean when someone says it?",
+                "options": [
+                    "Be careful",
+                    "I hope you succeed",
+                    "See you soon",
+                    "Have fun"
+                ],
+                "correctAnswer": "I hope you succeed",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_35",
+                "text": "Choose the correct article: '___ elephant is a large animal.'",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "An",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_36",
+                "text": "What is the plural form of 'car'?",
+                "options": [
+                    "Cars",
+                    "Car’s",
+                    "Cars’",
+                    "Cares"
+                ],
+                "correctAnswer": "Cars",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_37",
+                "text": "Which word is a synonym for 'beautiful'?",
+                "options": [
+                    "Ugly",
+                    "Pretty",
+                    "Plain",
+                    "Bad"
+                ],
+                "correctAnswer": "Pretty",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_38",
+                "text": "Fill in the blank: 'They ___ (not go) to school on Sundays.'",
+                "options": [
+                    "Doesn’t go",
+                    "Don’t go",
+                    "Not go",
+                    "Didn’t go"
+                ],
+                "correctAnswer": "Don’t go",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_39",
+                "text": "What does 'find out' mean in the sentence: 'I found out the truth.'?",
+                "options": [
+                    "Hide",
+                    "Discover",
+                    "Forget",
+                    "Lose"
+                ],
+                "correctAnswer": "Discover",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_40",
+                "text": "Translate to English: 'Men har kuni televizor ko‘raman.'",
+                "options": [
+                    "I watch TV every day.",
+                    "I watched TV every day.",
+                    "I am watching TV every day.",
+                    "I will watch TV every day."
+                ],
+                "correctAnswer": "I watch TV every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_41",
+                "text": "Which word completes the sentence: 'I ___ a book now.'?",
+                "options": [
+                    "Read",
+                    "Reads",
+                    "Am reading",
+                    "Reading"
+                ],
+                "correctAnswer": "Am reading",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_42",
+                "text": "What is the meaning of 'school' in Uzbek?",
+                "options": [
+                    "Maktab",
+                    "Bog‘",
+                    "Oshxona",
+                    "Hovli"
+                ],
+                "correctAnswer": "Maktab",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_43",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "We doesn’t eat meat.",
+                    "We don’t eat meat.",
+                    "We not eat meat.",
+                    "We eating meat."
+                ],
+                "correctAnswer": "We don’t eat meat.",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_44",
+                "text": "What does 'take care of' mean in the sentence: 'She takes care of her plants.'?",
+                "options": [
+                    "Ignore",
+                    "Look after",
+                    "Throw away",
+                    "Buy"
+                ],
+                "correctAnswer": "Look after",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_45",
+                "text": "Choose the correct article: '___ moon is bright tonight.'",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "The",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_46",
+                "text": "What is the plural form of 'book'?",
+                "options": [
+                    "Books",
+                    "Book’s",
+                    "Books’",
+                    "Bookes"
+                ],
+                "correctAnswer": "Books",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_47",
+                "text": "Which word is a synonym for 'happy'?",
+                "options": [
+                    "Sad",
+                    "Joyful",
+                    "Angry",
+                    "Tired"
+                ],
+                "correctAnswer": "Joyful",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_48",
+                "text": "Fill in the blank: 'He ___ (like) to play chess.'",
+                "options": [
+                    "Like",
+                    "Likes",
+                    "Liking",
+                    "Liked"
+                ],
+                "correctAnswer": "Likes",
+                "difficulty": "easy",
+                "points": 10
+            },
+            {
+                "id": "1_49",
+                "text": "What does 'get up' mean in the sentence: 'I get up at 7 AM.'?",
+                "options": [
+                    "Go to bed",
+                    "Wake up and leave bed",
+                    "Sit down",
+                    "Run away"
+                ],
+                "correctAnswer": "Wake up and leave bed",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "1_50",
+                "text": "Translate to English: 'Men har kuni yuguraman.'",
+                "options": [
+                    "I run every day.",
+                    "I ran every day.",
+                    "I am running every day.",
+                    "I will run every day."
+                ],
+                "correctAnswer": "I run every day.",
+                "difficulty": "medium",
+                "points": 20
+            }
+        ]
+    },
+    "stage2": {
+        "description": "O'rta bosqich: O'rta va qiyin savollar",
+        "questionCount": 15,
+        "timeLimitPerQuestion": 30,
+        "questions": [
+            {
+                "id": "2_1",
+                "text": "What does the phrasal verb 'look after' mean?",
+                "options": [
+                    "Search for",
+                    "Take care of",
+                    "Wait for",
+                    "Run away"
+                ],
+                "correctAnswer": "Take care of",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_2",
+                "text": "Which sentence uses the correct conditional form: 'If I ___ (be) rich, I would travel the world.'?",
+                "options": [
+                    "Was",
+                    "Were",
+                    "Am",
+                    "Will be"
+                ],
+                "correctAnswer": "Were",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_3",
+                "text": "What is the meaning of 'break down' in the sentence: 'Our car broke down on the highway'?",
+                "options": [
+                    "Speed up",
+                    "Stop working",
+                    "Turn around",
+                    "Slow down"
+                ],
+                "correctAnswer": "Stop working",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_4",
+                "text": "Which word best fits the sentence: 'She was ___ after hearing the good news.'?",
+                "options": [
+                    "Over the moon",
+                    "Under the weather",
+                    "On cloud nine",
+                    "Both A and C"
+                ],
+                "correctAnswer": "Both A and C",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_5",
+                "text": "Correct the mistake: 'He have been working here since 2020.'",
+                "options": [
+                    "He has been",
+                    "He is been",
+                    "He was been",
+                    "No mistake"
+                ],
+                "correctAnswer": "He has been",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_6",
+                "text": "What is the synonym of 'difficult' in an academic context?",
+                "options": [
+                    "Easy",
+                    "Challenging",
+                    "Simple",
+                    "Clear"
+                ],
+                "correctAnswer": "Challenging",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_7",
+                "text": "Fill in the blank: 'If I ___ (know) the answer, I would tell you.'",
+                "options": [
+                    "Know",
+                    "Knew",
+                    "Known",
+                    "Knowing"
+                ],
+                "correctAnswer": "Knew",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_8",
+                "text": "What does 'to beat around the bush' mean?",
+                "options": [
+                    "Speak directly",
+                    "Avoid the main topic",
+                    "Be honest",
+                    "Make a decision"
+                ],
+                "correctAnswer": "Avoid the main topic",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_9",
+                "text": "Which sentence is in the passive voice?",
+                "options": [
+                    "She writes a letter.",
+                    "A letter is written by her.",
+                    "She is writing a letter.",
+                    "She will write a letter."
+                ],
+                "correctAnswer": "A letter is written by her.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_10",
+                "text": "Translate to English: 'Men har kuni kitob o‘qiyman.'",
+                "options": [
+                    "I read a book every day.",
+                    "I am reading a book every day.",
+                    "I read books every day.",
+                    "I reading a book every day."
+                ],
+                "correctAnswer": "I read a book every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_11",
+                "text": "Which word is a synonym for 'persuade'?",
+                "options": [
+                    "Convince",
+                    "Confuse",
+                    "Deny",
+                    "Ignore"
+                ],
+                "correctAnswer": "Convince",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_12",
+                "text": "What is the correct form: 'She ___ (live) in London for three years.'?",
+                "options": [
+                    "Lives",
+                    "Lived",
+                    "Has lived",
+                    "Is living"
+                ],
+                "correctAnswer": "Has lived",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_13",
+                "text": "What does 'let the cat out of the bag' mean?",
+                "options": [
+                    "Keep a secret",
+                    "Reveal a secret",
+                    "Forget something",
+                    "Plan something"
+                ],
+                "correctAnswer": "Reveal a secret",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_14",
+                "text": "Choose the correct preposition: 'I’m interested ___ learning new languages.'",
+                "options": [
+                    "In",
+                    "At",
+                    "On",
+                    "With"
+                ],
+                "correctAnswer": "In",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_15",
+                "text": "Which sentence has a grammar mistake?",
+                "options": [
+                    "She speaks English fluently.",
+                    "He don’t speak English well.",
+                    "They are learning English.",
+                    "I have studied English for years."
+                ],
+                "correctAnswer": "He don’t speak English well.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_16",
+                "text": "What does the phrasal verb 'give up' mean?",
+                "options": [
+                    "Continue trying",
+                    "Stop trying",
+                    "Start something new",
+                    "Share something"
+                ],
+                "correctAnswer": "Stop trying",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_17",
+                "text": "Which sentence uses the correct tense: 'She ___ (work) here since 2023.'?",
+                "options": [
+                    "Works",
+                    "Worked",
+                    "Has worked",
+                    "Is working"
+                ],
+                "correctAnswer": "Has worked",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_18",
+                "text": "What is the meaning of 'on cloud nine' in the sentence: 'He was on cloud nine after winning the prize.'?",
+                "options": [
+                    "Very sad",
+                    "Very happy",
+                    "Very tired",
+                    "Very confused"
+                ],
+                "correctAnswer": "Very happy",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_19",
+                "text": "Choose the correct preposition: 'She is good ___ playing the piano.'",
+                "options": [
+                    "At",
+                    "In",
+                    "On",
+                    "With"
+                ],
+                "correctAnswer": "At",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_20",
+                "text": "Which word is an antonym of 'generous'?",
+                "options": [
+                    "Kind",
+                    "Selfish",
+                    "Helpful",
+                    "Friendly"
+                ],
+                "correctAnswer": "Selfish",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_21",
+                "text": "Fill in the blank: 'If I ___ (see) her, I will say hello.'",
+                "options": [
+                    "See",
+                    "Saw",
+                    "Seen",
+                    "Will see"
+                ],
+                "correctAnswer": "See",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_22",
+                "text": "What does 'turn down' mean in the sentence: 'She turned down the job offer.'?",
+                "options": [
+                    "Accept",
+                    "Reject",
+                    "Delay",
+                    "Consider"
+                ],
+                "correctAnswer": "Reject",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_23",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "They doesn’t know the answer.",
+                    "They don’t know the answer.",
+                    "They not know the answer.",
+                    "They knowing the answer."
+                ],
+                "correctAnswer": "They don’t know the answer.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_24",
+                "text": "Translate to Uzbek: 'We will meet at the park tomorrow.'",
+                "options": [
+                    "Biz ertaga parkda uchrashamiz.",
+                    "Biz parkda uchrashdik.",
+                    "Biz ertaga parkda bo‘lamiz.",
+                    "Biz parkda uchrashmoqdamiz."
+                ],
+                "correctAnswer": "Biz ertaga parkda uchrashamiz.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_25",
+                "text": "What is the synonym of 'important' in the sentence: 'This is an important decision.'?",
+                "options": [
+                    "Minor",
+                    "Significant",
+                    "Simple",
+                    "Easy"
+                ],
+                "correctAnswer": "Significant",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_26",
+                "text": "Which sentence uses the correct conditional form?",
+                "options": [
+                    "If I have time, I would go.",
+                    "If I had time, I would go.",
+                    "If I have time, I will went.",
+                    "If I had time, I will go."
+                ],
+                "correctAnswer": "If I had time, I would go.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_27",
+                "text": "What does 'call off' mean in the sentence: 'They called off the meeting.'?",
+                "options": [
+                    "Plan",
+                    "Cancel",
+                    "Attend",
+                    "Delay"
+                ],
+                "correctAnswer": "Cancel",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_28",
+                "text": "Which word fits best: 'His speech was so ___ that everyone applauded.'?",
+                "options": [
+                    "Boring",
+                    "Inspiring",
+                    "Confusing",
+                    "Simple"
+                ],
+                "correctAnswer": "Inspiring",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_29",
+                "text": "Correct the mistake: 'She go to the market every day.'",
+                "options": [
+                    "She goes",
+                    "She going",
+                    "She gone",
+                    "No mistake"
+                ],
+                "correctAnswer": "She goes",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_30",
+                "text": "What is the meaning of 'keep an eye on'?",
+                "options": [
+                    "Ignore",
+                    "Watch closely",
+                    "Forget",
+                    "Avoid"
+                ],
+                "correctAnswer": "Watch closely",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_31",
+                "text": "Which sentence is in the present perfect tense?",
+                "options": [
+                    "I am reading a book.",
+                    "I have read a book.",
+                    "I read a book yesterday.",
+                    "I will read a book."
+                ],
+                "correctAnswer": "I have read a book.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_32",
+                "text": "What is the antonym of 'increase'?",
+                "options": [
+                    "Grow",
+                    "Decrease",
+                    "Improve",
+                    "Expand"
+                ],
+                "correctAnswer": "Decrease",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_33",
+                "text": "Translate to English: 'U har kuni sport bilan shug‘ullandi.'",
+                "options": [
+                    "He exercises every day.",
+                    "He exercised every day.",
+                    "He is exercising every day.",
+                    "He will exercise every day."
+                ],
+                "correctAnswer": "He exercises every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_34",
+                "text": "Which preposition is correct: 'I’m looking forward ___ meeting you.'?",
+                "options": [
+                    "To",
+                    "At",
+                    "In",
+                    "On"
+                ],
+                "correctAnswer": "To",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_35",
+                "text": "What does 'run into' mean in the sentence: 'I ran into an old friend yesterday.'?",
+                "options": [
+                    "Avoid",
+                    "Meet unexpectedly",
+                    "Ignore",
+                    "Plan to meet"
+                ],
+                "correctAnswer": "Meet unexpectedly",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_36",
+                "text": "What does the phrasal verb 'put off' mean?",
+                "options": [
+                    "Start immediately",
+                    "Postpone",
+                    "Complete",
+                    "Cancel"
+                ],
+                "correctAnswer": "Postpone",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_37",
+                "text": "Which sentence uses the correct tense: 'She ___ (live) in Tashkent for two years.'?",
+                "options": [
+                    "Lives",
+                    "Lived",
+                    "Has lived",
+                    "Is living"
+                ],
+                "correctAnswer": "Has lived",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_38",
+                "text": "What is the meaning of 'under the weather' in the sentence: 'I’m feeling under the weather today.'?",
+                "options": [
+                    "Very happy",
+                    "Slightly unwell",
+                    "Very tired",
+                    "Very excited"
+                ],
+                "correctAnswer": "Slightly unwell",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_39",
+                "text": "Choose the correct preposition: 'He is afraid ___ spiders.'",
+                "options": [
+                    "Of",
+                    "At",
+                    "In",
+                    "With"
+                ],
+                "correctAnswer": "Of",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_40",
+                "text": "Which word is an antonym of 'strong'?",
+                "options": [
+                    "Powerful",
+                    "Weak",
+                    "Healthy",
+                    "Big"
+                ],
+                "correctAnswer": "Weak",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_41",
+                "text": "Fill in the blank: 'If we ___ (hurry), we will catch the bus.'",
+                "options": [
+                    "Hurry",
+                    "Hurried",
+                    "Have hurried",
+                    "Will hurry"
+                ],
+                "correctAnswer": "Hurry",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_42",
+                "text": "What does 'bring up' mean in the sentence: 'She brought up an interesting idea.'?",
+                "options": [
+                    "Mention",
+                    "Ignore",
+                    "Forget",
+                    "Delay"
+                ],
+                "correctAnswer": "Mention",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_43",
+                "text": "Which sentence is grammatically correct?",
+                "options": [
+                    "He don’t understand the question.",
+                    "He doesn’t understand the question.",
+                    "He not understand the question.",
+                    "He understanding the question."
+                ],
+                "correctAnswer": "He doesn’t understand the question.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_44",
+                "text": "Translate to Uzbek: 'I will call you tomorrow.'",
+                "options": [
+                    "Men seni ertaga chaqiraman.",
+                    "Men seni chaqirdim.",
+                    "Men seni har kuni chaqiraman.",
+                    "Men seni chaqirmoqchiman."
+                ],
+                "correctAnswer": "Men seni ertaga chaqiraman.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_45",
+                "text": "What is the synonym of 'difficult'?",
+                "options": [
+                    "Easy",
+                    "Hard",
+                    "Simple",
+                    "Clear"
+                ],
+                "correctAnswer": "Hard",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_46",
+                "text": "Which sentence uses the correct conditional form?",
+                "options": [
+                    "If I have money, I will buy a car.",
+                    "If I had money, I will buy a car.",
+                    "If I have money, I would bought a car.",
+                    "If I had money, I would buy a car."
+                ],
+                "correctAnswer": "If I had money, I would buy a car.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_47",
+                "text": "What does 'look forward to' mean in the sentence: 'I look forward to meeting you.'?",
+                "options": [
+                    "Dread",
+                    "Expect with pleasure",
+                    "Avoid",
+                    "Plan"
+                ],
+                "correctAnswer": "Expect with pleasure",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_48",
+                "text": "Which word fits best: 'The movie was so ___ that I cried.'?",
+                "options": [
+                    "Funny",
+                    "Touching",
+                    "Boring",
+                    "Loud"
+                ],
+                "correctAnswer": "Touching",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_49",
+                "text": "Correct the mistake: 'They was playing in the park.'",
+                "options": [
+                    "They were playing",
+                    "They is playing",
+                    "They playing",
+                    "No mistake"
+                ],
+                "correctAnswer": "They were playing",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_50",
+                "text": "What is the meaning of 'show up'?",
+                "options": [
+                    "Leave",
+                    "Arrive",
+                    "Hide",
+                    "Forget"
+                ],
+                "correctAnswer": "Arrive",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_51",
+                "text": "Which sentence is in the past continuous tense?",
+                "options": [
+                    "I was reading a book.",
+                    "I have read a book.",
+                    "I read a book yesterday.",
+                    "I will read a book."
+                ],
+                "correctAnswer": "I was reading a book.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_52",
+                "text": "What is the antonym of 'happy'?",
+                "options": [
+                    "Sad",
+                    "Excited",
+                    "Joyful",
+                    "Proud"
+                ],
+                "correctAnswer": "Sad",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_53",
+                "text": "Translate to English: 'U har kuni musiqa tinglaydi.'",
+                "options": [
+                    "He listens to music every day.",
+                    "He listened to music every day.",
+                    "He is listening to music every day.",
+                    "He will listen to music every day."
+                ],
+                "correctAnswer": "He listens to music every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_54",
+                "text": "Which preposition is correct: 'She is allergic ___ cats.'?",
+                "options": [
+                    "To",
+                    "At",
+                    "In",
+                    "On"
+                ],
+                "correctAnswer": "To",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_55",
+                "text": "What does 'pick out' mean in the sentence: 'She picked out a dress for the party.'?",
+                "options": [
+                    "Choose",
+                    "Discard",
+                    "Wear",
+                    "Repair"
+                ],
+                "correctAnswer": "Choose",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_56",
+                "text": "Which sentence uses the correct verb form?",
+                "options": [
+                    "If I see him, I will tell him.",
+                    "If I see him, I would tell him.",
+                    "If I saw him, I will tell him.",
+                    "If I seen him, I will tell him."
+                ],
+                "correctAnswer": "If I see him, I will tell him.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_57",
+                "text": "What does 'set up' mean in the sentence: 'They set up a new company.'?",
+                "options": [
+                    "Close",
+                    "Establish",
+                    "Destroy",
+                    "Delay"
+                ],
+                "correctAnswer": "Establish",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_58",
+                "text": "Which word fits best: 'The book was so ___ that I couldn’t put it down.'?",
+                "options": [
+                    "Boring",
+                    "Exciting",
+                    "Slow",
+                    "Difficult"
+                ],
+                "correctAnswer": "Exciting",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_59",
+                "text": "Correct the mistake: 'He have two cats.'",
+                "options": [
+                    "He has",
+                    "He having",
+                    "He had",
+                    "No mistake"
+                ],
+                "correctAnswer": "He has",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_60",
+                "text": "What is the meaning of 'run out'?",
+                "options": [
+                    "Continue",
+                    "Use up",
+                    "Start",
+                    "Save"
+                ],
+                "correctAnswer": "Use up",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_61",
+                "text": "Which sentence is in the present continuous tense?",
+                "options": [
+                    "She is singing now.",
+                    "She sings every day.",
+                    "She sang yesterday.",
+                    "She will sing tomorrow."
+                ],
+                "correctAnswer": "She is singing now.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_62",
+                "text": "What is the antonym of 'fast'?",
+                "options": [
+                    "Quick",
+                    "Slow",
+                    "Strong",
+                    "Big"
+                ],
+                "correctAnswer": "Slow",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_63",
+                "text": "Translate to Uzbek: 'We are learning English.'",
+                "options": [
+                    "Biz ingliz tilini o‘rganmoqdamiz.",
+                    "Biz ingliz tilini o‘rgandik.",
+                    "Biz ingliz tilini o‘rganamiz.",
+                    "Biz ingliz tilini o‘rganayapmiz."
+                ],
+                "correctAnswer": "Biz ingliz tilini o‘rganmoqdamiz.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_64",
+                "text": "Which preposition is correct: 'I’m proud ___ my team.'?",
+                "options": [
+                    "Of",
+                    "At",
+                    "In",
+                    "On"
+                ],
+                "correctAnswer": "Of",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_65",
+                "text": "What does 'give in' mean in the sentence: 'He gave in to pressure.'?",
+                "options": [
+                    "Resist",
+                    "Surrender",
+                    "Ignore",
+                    "Fight"
+                ],
+                "correctAnswer": "Surrender",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_66",
+                "text": "Which sentence uses the correct verb form?",
+                "options": [
+                    "If I knew the answer, I will tell you.",
+                    "If I knew the answer, I would tell you.",
+                    "If I know the answer, I would tell you.",
+                    "If I known the answer, I will tell you."
+                ],
+                "correctAnswer": "If I knew the answer, I would tell you.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_67",
+                "text": "What does 'take off' mean in the sentence: 'The plane took off on time.'?",
+                "options": [
+                    "Land",
+                    "Depart",
+                    "Stop",
+                    "Delay"
+                ],
+                "correctAnswer": "Depart",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_68",
+                "text": "Which word fits best: 'Her speech was very ___ and convincing.'?",
+                "options": [
+                    "Weak",
+                    "Persuasive",
+                    "Boring",
+                    "Confusing"
+                ],
+                "correctAnswer": "Persuasive",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_69",
+                "text": "Correct the mistake: 'She were at the party.'",
+                "options": [
+                    "She was",
+                    "She is",
+                    "She being",
+                    "No mistake"
+                ],
+                "correctAnswer": "She was",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_70",
+                "text": "What is the meaning of 'keep up with'?",
+                "options": [
+                    "Fall behind",
+                    "Stay at the same level",
+                    "Give up",
+                    "Run away"
+                ],
+                "correctAnswer": "Stay at the same level",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "2_71",
+                "text": "Which sentence is in the past perfect tense?",
+                "options": [
+                    "I had finished my homework.",
+                    "I finish my homework.",
+                    "I am finishing my homework.",
+                    "I will finish my homework."
+                ],
+                "correctAnswer": "I had finished my homework.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_72",
+                "text": "What is the antonym of 'rich'?",
+                "options": [
+                    "Wealthy",
+                    "Poor",
+                    "Healthy",
+                    "Big"
+                ],
+                "correctAnswer": "Poor",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_73",
+                "text": "Translate to English: 'U har kuni dars qiladi.'",
+                "options": [
+                    "He studies every day.",
+                    "He studied every day.",
+                    "He is studying every day.",
+                    "He will study every day."
+                ],
+                "correctAnswer": "He studies every day.",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_74",
+                "text": "Which preposition is correct: 'I’m tired ___ working all day.'?",
+                "options": [
+                    "Of",
+                    "At",
+                    "In",
+                    "On"
+                ],
+                "correctAnswer": "Of",
+                "difficulty": "medium",
+                "points": 20
+            },
+            {
+                "id": "2_75",
+                "text": "What does 'check out' mean in the sentence: 'Let’s check out the new store.'?",
+                "options": [
+                    "Ignore",
+                    "Visit and explore",
+                    "Close",
+                    "Repair"
+                ],
+                "correctAnswer": "Visit and explore",
+                "difficulty": "hard",
+                "points": 20
+            }
+        ]
+    },
+    "stage3": {
+        "description": "Final bosqich: Qiyin va ekspert darajadagi savollar",
+        "questionCount": 20,
+        "timeLimitPerQuestion": 45,
+        "questions": [
+            {
+                "id": "3_1",
+                "text": "What is the subjunctive mood in the sentence: 'If I ___ (be) you, I would study harder.'?",
+                "options": [
+                    "Was",
+                    "Were",
+                    "Am",
+                    "Will be"
+                ],
+                "correctAnswer": "Were",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_2",
+                "text": "What does 'to bite the bullet' mean?",
+                "options": [
+                    "Give up",
+                    "Make a tough decision",
+                    "Avoid responsibility",
+                    "Celebrate success"
+                ],
+                "correctAnswer": "Make a tough decision",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_3",
+                "text": "Correct the sentence: 'She insisted that he comes early.'",
+                "options": [
+                    "She insisted that he come early.",
+                    "She insisted that he coming early.",
+                    "No mistake",
+                    "She insisted that he came early."
+                ],
+                "correctAnswer": "She insisted that he come early.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_4",
+                "text": "Which word is most appropriate in an academic essay: 'The results ___ our hypothesis.'?",
+                "options": [
+                    "Prove",
+                    "Support",
+                    "Show",
+                    "Confirm"
+                ],
+                "correctAnswer": "Support",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_5",
+                "text": "What is the meaning of 'ubiquitous'?",
+                "options": [
+                    "Rare",
+                    "Everywhere",
+                    "Expensive",
+                    "Unique"
+                ],
+                "correctAnswer": "Everywhere",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_6",
+                "text": "Which sentence uses reported speech correctly?",
+                "options": [
+                    "She said that she is tired.",
+                    "She said that she was tired.",
+                    "She said that she will be tired.",
+                    "She said that she tired."
+                ],
+                "correctAnswer": "She said that she was tired.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_7",
+                "text": "Translate to Uzbek: 'The meeting has been postponed indefinitely.'",
+                "options": [
+                    "Uchrashuv muddatsiz qoldirildi.",
+                    "Uchrashuv vaqtincha to‘xtatildi.",
+                    "Uchrashuv doimiy ravishda o‘tkaziladi.",
+                    "Uchrashuv keyinga qoldirildi."
+                ],
+                "correctAnswer": "Uchrashuv muddatsiz qoldirildi.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_8",
+                "text": "What is the difference between 'affect' and 'effect'?",
+                "options": [
+                    "Affect is a verb, effect is a noun.",
+                    "Affect is a noun, effect is a verb.",
+                    "Both are verbs with the same meaning.",
+                    "Both are nouns with different meanings."
+                ],
+                "correctAnswer": "Affect is a verb, effect is a noun.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_9",
+                "text": "Which sentence uses the correct modal verb: 'You ___ finish your homework before going out.'?",
+                "options": [
+                    "Can",
+                    "Might",
+                    "Must",
+                    "Could"
+                ],
+                "correctAnswer": "Must",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_10",
+                "text": "What does 'to throw in the towel' mean?",
+                "options": [
+                    "Continue trying",
+                    "Give up",
+                    "Start a new project",
+                    "Celebrate"
+                ],
+                "correctAnswer": "Give up",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_11",
+                "text": "Correct the sentence: 'Had I known about the test, I would study harder.'",
+                "options": [
+                    "Had I known about the test, I would have studied harder.",
+                    "If I knew about the test, I would study harder.",
+                    "No mistake",
+                    "Had I known about the test, I studied harder."
+                ],
+                "correctAnswer": "Had I known about the test, I would have studied harder.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_12",
+                "text": "What is a synonym for 'meticulous'?",
+                "options": [
+                    "Careless",
+                    "Precise",
+                    "Quick",
+                    "Simple"
+                ],
+                "correctAnswer": "Precise",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_13",
+                "text": "Which sentence is in the correct passive voice?",
+                "options": [
+                    "The book was read by her.",
+                    "She reads the book.",
+                    "The book reads by her.",
+                    "She was reading the book."
+                ],
+                "correctAnswer": "The book was read by her.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_14",
+                "text": "What does 'to be on the same wavelength' mean?",
+                "options": [
+                    "To disagree",
+                    "To think similarly",
+                    "To work separately",
+                    "To compete"
+                ],
+                "correctAnswer": "To think similarly",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_15",
+                "text": "Fill in the blank: 'She ___ (study) English for five years before she moved to London.'",
+                "options": [
+                    "Studied",
+                    "Has studied",
+                    "Had studied",
+                    "Was studying"
+                ],
+                "correctAnswer": "Had studied",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_16",
+                "text": "What is the meaning of 'ephemeral'?",
+                "options": [
+                    "Lasting forever",
+                    "Short-lived",
+                    "Complicated",
+                    "Expensive"
+                ],
+                "correctAnswer": "Short-lived",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_17",
+                "text": "Which sentence uses the correct article: '___ apple a day keeps the doctor away.'?",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "An",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_18",
+                "text": "What is the purpose of a gerund in a sentence?",
+                "options": [
+                    "To act as an adjective",
+                    "To act as a noun",
+                    "To act as an adverb",
+                    "To act as a verb"
+                ],
+                "correctAnswer": "To act as a noun",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_19",
+                "text": "Which word is a synonym for 'ameliorate'?",
+                "options": [
+                    "Worsen",
+                    "Improve",
+                    "Delay",
+                    "Ignore"
+                ],
+                "correctAnswer": "Improve",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_20",
+                "text": "What is the correct form: 'If she ___ (work) harder, she would have passed the exam.'?",
+                "options": [
+                    "Works",
+                    "Worked",
+                    "Had worked",
+                    "Was working"
+                ],
+                "correctAnswer": "Had worked",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_21",
+                "text": "What is the meaning of 'to pull someone’s leg'?",
+                "options": [
+                    "To help someone",
+                    "To joke with someone",
+                    "To criticize someone",
+                    "To ignore someone"
+                ],
+                "correctAnswer": "To joke with someone",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_22",
+                "text": "Correct the sentence: 'If I would have known, I would go.'",
+                "options": [
+                    "If I had known, I would have gone.",
+                    "If I knew, I would go.",
+                    "No mistake",
+                    "If I would know, I would have gone."
+                ],
+                "correctAnswer": "If I had known, I would have gone.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_23",
+                "text": "What is the synonym of 'prudent' in an academic context?",
+                "options": [
+                    "Careless",
+                    "Cautious",
+                    "Bold",
+                    "Quick"
+                ],
+                "correctAnswer": "Cautious",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_24",
+                "text": "Which sentence uses the subjunctive mood correctly?",
+                "options": [
+                    "I suggest that he goes now.",
+                    "I suggest that he go now.",
+                    "I suggest that he going now.",
+                    "I suggest that he gone now."
+                ],
+                "correctAnswer": "I suggest that he go now.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_25",
+                "text": "What does 'to hit the nail on the head' mean?",
+                "options": [
+                    "To make a mistake",
+                    "To do something exactly right",
+                    "To avoid a problem",
+                    "To delay a decision"
+                ],
+                "correctAnswer": "To do something exactly right",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_26",
+                "text": "Which word is most appropriate in the sentence: 'The research ___ our theory.'?",
+                "options": [
+                    "Proves",
+                    "Supports",
+                    "Shows",
+                    "Denies"
+                ],
+                "correctAnswer": "Supports",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_27",
+                "text": "Translate to Uzbek: 'The project was completed ahead of schedule.'",
+                "options": [
+                    "Loyiha muddatidan oldin yakunlandi.",
+                    "Loyiha muddatida yakunlandi.",
+                    "Loyiha kechiktirildi.",
+                    "Loyiha boshlanmadi."
+                ],
+                "correctAnswer": "Loyiha muddatidan oldin yakunlandi.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_28",
+                "text": "What is the meaning of 'benevolent'?",
+                "options": [
+                    "Kind and generous",
+                    "Selfish",
+                    "Arrogant",
+                    "Careless"
+                ],
+                "correctAnswer": "Kind and generous",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_29",
+                "text": "Which sentence is in the passive voice?",
+                "options": [
+                    "They built the house last year.",
+                    "The house was built last year.",
+                    "They are building the house.",
+                    "They will build the house."
+                ],
+                "correctAnswer": "The house was built last year.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_30",
+                "text": "What is the difference between 'lie' and 'lay'?",
+                "options": [
+                    "Lie needs an object, lay does not.",
+                    "Lay needs an object, lie does not.",
+                    "Both are the same.",
+                    "Lie is past tense, lay is present."
+                ],
+                "correctAnswer": "Lay needs an object, lie does not.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_31",
+                "text": "What does 'to take something with a grain of salt' mean?",
+                "options": [
+                    "To believe it completely",
+                    "To doubt its truth",
+                    "To ignore it",
+                    "To share it"
+                ],
+                "correctAnswer": "To doubt its truth",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_32",
+                "text": "Fill in the blank: 'If she ___ (study) harder, she would have passed the exam.'",
+                "options": [
+                    "Studied",
+                    "Has studied",
+                    "Had studied",
+                    "Was studying"
+                ],
+                "correctAnswer": "Had studied",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_33",
+                "text": "Which word is a synonym for 'mitigate'?",
+                "options": [
+                    "Worsen",
+                    "Reduce",
+                    "Increase",
+                    "Ignore"
+                ],
+                "correctAnswer": "Reduce",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_34",
+                "text": "Which sentence uses reported speech correctly?",
+                "options": [
+                    "He said that he is tired.",
+                    "He said that he was tired.",
+                    "He said that he will be tired.",
+                    "He said that he tired."
+                ],
+                "correctAnswer": "He said that he was tired.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_35",
+                "text": "What is the meaning of 'procrastinate'?",
+                "options": [
+                    "Act quickly",
+                    "Delay or postpone",
+                    "Plan carefully",
+                    "Complete on time"
+                ],
+                "correctAnswer": "Delay or postpone",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_36",
+                "text": "Which sentence uses the correct modal verb: 'You ___ apologize for your mistake.'?",
+                "options": [
+                    "Can",
+                    "Might",
+                    "Should",
+                    "Could"
+                ],
+                "correctAnswer": "Should",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_37",
+                "text": "What is the antonym of 'obscure'?",
+                "options": [
+                    "Clear",
+                    "Hidden",
+                    "Complex",
+                    "Vague"
+                ],
+                "correctAnswer": "Clear",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_38",
+                "text": "Translate to English: 'Uning nutqi hamma uchun ilhomlantiruvchi edi.'",
+                "options": [
+                    "His speech was boring for everyone.",
+                    "His speech was inspiring for everyone.",
+                    "His speech was confusing for everyone.",
+                    "His speech was short for everyone."
+                ],
+                "correctAnswer": "His speech was inspiring for everyone.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_39",
+                "text": "What is the purpose of an infinitive in a sentence?",
+                "options": [
+                    "To act as a noun, adjective, or adverb",
+                    "To act only as a verb",
+                    "To act only as an adjective",
+                    "To act only as an adverb"
+                ],
+                "correctAnswer": "To act as a noun, adjective, or adverb",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_40",
+                "text": "What does 'to burn the midnight oil' mean?",
+                "options": [
+                    "To sleep early",
+                    "To work late at night",
+                    "To waste time",
+                    "To relax"
+                ],
+                "correctAnswer": "To work late at night",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_41",
+                "text": "Which sentence has a grammar mistake?",
+                "options": [
+                    "She has been studying for hours.",
+                    "He have just finished his homework.",
+                    "They are going to the party.",
+                    "I will call you later."
+                ],
+                "correctAnswer": "He have just finished his homework.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_42",
+                "text": "What is a synonym for 'exacerbate'?",
+                "options": [
+                    "Improve",
+                    "Worsen",
+                    "Solve",
+                    "Simplify"
+                ],
+                "correctAnswer": "Worsen",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_43",
+                "text": "Which sentence uses the correct article: '___ honest man always tells the truth.'?",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "An",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_44",
+                "text": "What is the meaning of 'to cut corners'?",
+                "options": [
+                    "To do something carefully",
+                    "To do something quickly but poorly",
+                    "To plan thoroughly",
+                    "To follow rules"
+                ],
+                "correctAnswer": "To do something quickly but poorly",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_45",
+                "text": "Correct the sentence: 'She wish she could attend the concert.'",
+                "options": [
+                    "She wishes she could attend the concert.",
+                    "She wished she can attend the concert.",
+                    "No mistake",
+                    "She wishing she could attend the concert."
+                ],
+                "correctAnswer": "She wishes she could attend the concert.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_46",
+                "text": "What does 'to spill the beans' mean?",
+                "options": [
+                    "To keep a secret",
+                    "To reveal a secret",
+                    "To make a mistake",
+                    "To plan something"
+                ],
+                "correctAnswer": "To reveal a secret",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_47",
+                "text": "Correct the sentence: 'If I was there, I would help.'",
+                "options": [
+                    "If I were there, I would help.",
+                    "If I am there, I would help.",
+                    "No mistake",
+                    "If I was there, I will help."
+                ],
+                "correctAnswer": "If I were there, I would help.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_48",
+                "text": "What is the synonym of 'diligent' in an academic context?",
+                "options": [
+                    "Lazy",
+                    "Hardworking",
+                    "Careless",
+                    "Slow"
+                ],
+                "correctAnswer": "Hardworking",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_49",
+                "text": "Which sentence uses the subjunctive mood correctly?",
+                "options": [
+                    "I recommend that she studies more.",
+                    "I recommend that she study more.",
+                    "I recommend that she studying more.",
+                    "I recommend that she studied more."
+                ],
+                "correctAnswer": "I recommend that she study more.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_50",
+                "text": "What does 'to bark up the wrong tree' mean?",
+                "options": [
+                    "To make a correct decision",
+                    "To make a mistake about something",
+                    "To ask for help",
+                    "To succeed"
+                ],
+                "correctAnswer": "To make a mistake about something",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_51",
+                "text": "Which word is most appropriate in the sentence: 'The study ___ the hypothesis.'?",
+                "options": [
+                    "Proves",
+                    "Confirms",
+                    "Supports",
+                    "Rejects"
+                ],
+                "correctAnswer": "Supports",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_52",
+                "text": "Translate to Uzbek: 'The event was canceled due to rain.'",
+                "options": [
+                    "Tadbir yomg‘ir tufayli bekor qilindi.",
+                    "Tadbir yomg‘ir tufayli o‘tkazildi.",
+                    "Tadbir yomg‘ir tufayli kechiktirildi.",
+                    "Tadbir yomg‘ir tufayli boshlandi."
+                ],
+                "correctAnswer": "Tadbir yomg‘ir tufayli bekor qilindi.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_53",
+                "text": "What is the meaning of 'articulate'?",
+                "options": [
+                    "Silent",
+                    "Well-spoken",
+                    "Confused",
+                    "Rude"
+                ],
+                "correctAnswer": "Well-spoken",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_54",
+                "text": "Which sentence is in the passive voice?",
+                "options": [
+                    "They painted the house.",
+                    "The house was painted by them.",
+                    "They are painting the house.",
+                    "They will paint the house."
+                ],
+                "correctAnswer": "The house was painted by them.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_55",
+                "text": "What is the difference between 'bring' and 'take'?",
+                "options": [
+                    "Bring is to move toward, take is to move away.",
+                    "Bring is to move away, take is to move toward.",
+                    "Both are the same.",
+                    "Bring is past tense, take is present."
+                ],
+                "correctAnswer": "Bring is to move toward, take is to move away.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_56",
+                "text": "What does 'to let the cat out of the bag' mean?",
+                "options": [
+                    "To keep a secret",
+                    "To reveal a secret",
+                    "To plan something",
+                    "To avoid something"
+                ],
+                "correctAnswer": "To reveal a secret",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_57",
+                "text": "Fill in the blank: 'If they ___ (prepare) well, they would have won.'",
+                "options": [
+                    "Prepared",
+                    "Have prepared",
+                    "Had prepared",
+                    "Were preparing"
+                ],
+                "correctAnswer": "Had prepared",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_58",
+                "text": "Which word is a synonym for 'alleviate'?",
+                "options": [
+                    "Worsen",
+                    "Relieve",
+                    "Increase",
+                    "Complicate"
+                ],
+                "correctAnswer": "Relieve",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_59",
+                "text": "Which sentence uses reported speech correctly?",
+                "options": [
+                    "She said that she is happy.",
+                    "She said that she was happy.",
+                    "She said that she will be happy.",
+                    "She said that she happy."
+                ],
+                "correctAnswer": "She said that she was happy.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_60",
+                "text": "What is the meaning of 'resilient'?",
+                "options": [
+                    "Weak",
+                    "Able to recover",
+                    "Slow",
+                    "Rigid"
+                ],
+                "correctAnswer": "Able to recover",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_61",
+                "text": "Which sentence uses the correct modal verb: 'You ___ respect your elders.'?",
+                "options": [
+                    "Can",
+                    "Might",
+                    "Should",
+                    "Could"
+                ],
+                "correctAnswer": "Should",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_62",
+                "text": "What is the antonym of 'transparent'?",
+                "options": [
+                    "Clear",
+                    "Opaque",
+                    "Bright",
+                    "Visible"
+                ],
+                "correctAnswer": "Opaque",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_63",
+                "text": "Translate to English: 'Uning ishi juda muvaffaqiyatli edi.'",
+                "options": [
+                    "His work was very successful.",
+                    "His work was very difficult.",
+                    "His work was very boring.",
+                    "His work was very short."
+                ],
+                "correctAnswer": "His work was very successful.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_64",
+                "text": "What is the purpose of a participle in a sentence?",
+                "options": [
+                    "To act as a noun",
+                    "To act as an adjective or verb",
+                    "To act as an adverb",
+                    "To act only as a verb"
+                ],
+                "correctAnswer": "To act as an adjective or verb",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_65",
+                "text": "What does 'to kick the bucket' mean?",
+                "options": [
+                    "To start a project",
+                    "To die",
+                    "To give up",
+                    "To celebrate"
+                ],
+                "correctAnswer": "To die",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_66",
+                "text": "Which sentence has a grammar mistake?",
+                "options": [
+                    "She has been working here for years.",
+                    "He have been studying all day.",
+                    "They are going to the market.",
+                    "I will call you tomorrow."
+                ],
+                "correctAnswer": "He have been studying all day.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_67",
+                "text": "What is a synonym for 'ubiquitous'?",
+                "options": [
+                    "Rare",
+                    "Widespread",
+                    "Unique",
+                    "Expensive"
+                ],
+                "correctAnswer": "Widespread",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_68",
+                "text": "Which sentence uses the correct article: '___ honest person always helps others.'?",
+                "options": [
+                    "A",
+                    "An",
+                    "The",
+                    "No article"
+                ],
+                "correctAnswer": "An",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_69",
+                "text": "What does 'to hit the ground running' mean?",
+                "options": [
+                    "To start something quickly and effectively",
+                    "To fail immediately",
+                    "To delay a project",
+                    "To rest"
+                ],
+                "correctAnswer": "To start something quickly and effectively",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_70",
+                "text": "Correct the sentence: 'I wish I can go to the party.'",
+                "options": [
+                    "I wish I could go to the party.",
+                    "I wish I went to the party.",
+                    "No mistake",
+                    "I wish I go to the party."
+                ],
+                "correctAnswer": "I wish I could go to the party.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_71",
+                "text": "What is the meaning of 'ephemeral'?",
+                "options": [
+                    "Lasting forever",
+                    "Short-lived",
+                    "Complicated",
+                    "Permanent"
+                ],
+                "correctAnswer": "Short-lived",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_72",
+                "text": "Which sentence uses the correct conditional form?",
+                "options": [
+                    "If I had studied, I will pass the exam.",
+                    "If I had studied, I would have passed the exam.",
+                    "If I studied, I would pass the exam.",
+                    "If I study, I would have passed the exam."
+                ],
+                "correctAnswer": "If I had studied, I would have passed the exam.",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_73",
+                "text": "What is a synonym for 'meticulous'?",
+                "options": [
+                    "Careless",
+                    "Precise",
+                    "Quick",
+                    "Simple"
+                ],
+                "correctAnswer": "Precise",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_74",
+                "text": "Which sentence is in the correct passive voice?",
+                "options": [
+                    "The cake was eaten by the children.",
+                    "The children eat the cake.",
+                    "The children are eating the cake.",
+                    "The children will eat the cake."
+                ],
+                "correctAnswer": "The cake was eaten by the children.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_75",
+                "text": "What does 'to be on the same wavelength' mean?",
+                "options": [
+                    "To disagree",
+                    "To think similarly",
+                    "To work separately",
+                    "To compete"
+                ],
+                "correctAnswer": "To think similarly",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_76",
+                "text": "Fill in the blank: 'If he ___ (know) the answer, he would have told us.'",
+                "options": [
+                    "Knew",
+                    "Has known",
+                    "Had known",
+                    "Was knowing"
+                ],
+                "correctAnswer": "Had known",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_77",
+                "text": "What is a synonym for 'ameliorate'?",
+                "options": [
+                    "Worsen",
+                    "Improve",
+                    "Delay",
+                    "Ignore"
+                ],
+                "correctAnswer": "Improve",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_78",
+                "text": "Which sentence uses reported speech correctly?",
+                "options": [
+                    "He said that he is coming.",
+                    "He said that he was coming.",
+                    "He said that he will come.",
+                    "He said that he come."
+                ],
+                "correctAnswer": "He said that he was coming.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_79",
+                "text": "What is the meaning of 'procrastinate'?",
+                "options": [
+                    "Act quickly",
+                    "Delay or postpone",
+                    "Plan carefully",
+                    "Complete on time"
+                ],
+                "correctAnswer": "Delay or postpone",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_80",
+                "text": "Which sentence uses the correct modal verb: 'You ___ ask for permission first.'?",
+                "options": [
+                    "Can",
+                    "Might",
+                    "Must",
+                    "Could"
+                ],
+                "correctAnswer": "Must",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_81",
+                "text": "What is the antonym of 'vague'?",
+                "options": [
+                    "Clear",
+                    "Confusing",
+                    "Hidden",
+                    "Complex"
+                ],
+                "correctAnswer": "Clear",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_82",
+                "text": "Translate to English: 'Uning loyihasi juda innovatsion edi.'",
+                "options": [
+                    "His project was very innovative.",
+                    "His project was very boring.",
+                    "His project was very simple.",
+                    "His project was very expensive."
+                ],
+                "correctAnswer": "His project was very innovative.",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_83",
+                "text": "What is the purpose of a gerund in a sentence?",
+                "options": [
+                    "To act as a noun",
+                    "To act as an adjective",
+                    "To act as an adverb",
+                    "To act as a verb"
+                ],
+                "correctAnswer": "To act as a noun",
+                "difficulty": "expert",
+                "points": 50
+            },
+            {
+                "id": "3_84",
+                "text": "What does 'to burn the midnight oil' mean?",
+                "options": [
+                    "To sleep early",
+                    "To work late at night",
+                    "To waste time",
+                    "To relax"
+                ],
+                "correctAnswer": "To work late at night",
+                "difficulty": "hard",
+                "points": 20
+            },
+            {
+                "id": "3_85",
+                "text": "Correct the sentence: 'She wish she could attend the meeting.'",
+                "options": [
+                    "She wishes she could attend the meeting.",
+                    "She wished she can attend the meeting.",
+                    "No mistake",
+                    "She wishing she could attend the meeting."
+                ],
+                "correctAnswer": "She wishes she could attend the meeting.",
+                "difficulty": "expert",
+                "points": 50
+            }
+        ]
+    }
+}
